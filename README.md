@@ -1,4 +1,6 @@
 # Whole genome bisulfite sequencing (WGBS) analysis
+## Description
+The codes contain the basic processes for WGBS analysis, which contain QC, mapping, and differential analysis. Automatic pipeline and large samples should be considered in the future.
 ## softwares and packages
 * Quality control: [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [Trim_Galore](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/)
 * The major mapping software used: [Bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/)
